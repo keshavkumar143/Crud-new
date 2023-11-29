@@ -1,0 +1,25 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.task {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.icon-handle {
+    display: flex;
+    align-items: center;
+}
+
+.edit-icon,
+.delete-icon {
+    margin-left: 10px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,28 @@
+
+*{
+ background-color:rgb(254, 225, 225);
+}
+.main-container {
+  margin-top: 50px;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input-holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.input-holder input {
+  margin-right: 10px;
+}
+
+
+
+
